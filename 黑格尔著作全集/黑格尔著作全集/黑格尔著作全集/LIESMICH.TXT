@@ -1,0 +1,14 @@
+Für die Nutzung der Hegel-CDR sind Komponenten des
+Windows-Hilfesystems und der Internet-Explorer (ab 4.x)
+erforderlich.
+
+Das Hilfesystem gehört zur Standard-Installation von
+Windows. Eine Nachinstallation bzw. Aktualisierung
+(zur Nutzung aller Funktionen dringend empfohlen) 
+ist durch Starten von \update\hhupd.exe möglich.
+
+Der Internet-Explorer 5.5 kann durch Starten von
+ie\ie5setup.exe installiert werden. Der Internet-
+Explorer kann als Zweit-Browser installiert werden.
+Es ist nicht notwendig, ihn als Standard- oder 
+Default-Browser einzurichten.
